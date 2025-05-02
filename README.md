@@ -12,7 +12,7 @@
 - 🧪 I have over 10 years of experience in **Manual Testing**, **API Testing**, **ETL Testing**, and **Functional Testing** across **Financial**, **Retail**, and **IT** industries.
 - 🤝 I’m passionate about collaborating with cross-functional teams to ensure high-quality software delivery.
 - 📚 I’m continuously learning and exploring **automation tools** and **modern QA practices**.
-- 💬 Ask me about **Test Planning**, **SQL Queries**, **Bug Reporting**, or **API Testing**.
+- 💬 Ask me about **Test Planning**, **SQL Queries**, **Bug Reporting**, or **API/ETL Testing**.
 - 📫 How to reach me: [dianadelgadoqa@gmail.com](mailto:dianadelgadoqa@gmail.com)
 - ☕ Fun fact: My experience testing across multiple industries has taught me that clear communication is just as critical as finding bugs.
 
@@ -21,6 +21,7 @@
 ### 🛠️ Languages and Tools:
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
