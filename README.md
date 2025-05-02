@@ -41,7 +41,7 @@
 
 ### 📁 Portfolio
 
-🔗 [My QA Portfolio](https://dianaldbqa.notion.site/Diana-Delgado-e875845a90fb42b0b453fadea87f91c5)
+🔗 [Notion Portfolio](https://dianaldbqa.notion.site/9f7c4ab1be8743a1bc5452660d3cc7de?v=628a60a881914e9ca74ef2439442c100)
 
 ---
 
