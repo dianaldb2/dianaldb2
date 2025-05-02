@@ -49,7 +49,7 @@
 
 | Certification        | Link                           | Issued Date |
 |:-----------------------|:--------------------------------|:-------------|
-| ISTQB® Certified Tester – Foundation Level | [Credential Verification](https://atsqa.org) | 2022 |
+| ISTQB® Certified Tester – Foundation Level | [Credential Verification](https://www.credly.com/badges/b09df70e-57cb-435d-b21d-2e63db5838f3/linked_in_profile) | 2022 |
 
 ---
 
